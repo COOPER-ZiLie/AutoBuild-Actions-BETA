@@ -38,7 +38,7 @@ env:
   CONFIG_FILE: d-team_newifi-d2
 # 源码仓库:分支
 #  DEFAULT_SOURCE: coolsnowwolf/lede:master
-   DEFAULT_SOURCE: immortalwrt/immortalwrt
+   DEFAULT_SOURCE: immortalwrt/immortalwrt:master
 # 上传固件到 Github Releases
   UPLOAD_RELEASES: true
 # 上传固件到 Github Artifacts
