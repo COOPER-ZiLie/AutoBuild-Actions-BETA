@@ -1,5 +1,5 @@
 #!/bin/bash
-# AutoBuild Module by Hyy2001 <https://github.com/Hyy2001X/AutoBuild-Actions-BETA>
+# AutoBuild Module by Ghost-ZiLie <https://github.com/COOPER-ZiLie/AutoBuild-Actions-BETA/>
 # AutoBuild DiyScript
 
 Firmware_Diy_Core() {
@@ -8,7 +8,7 @@ Firmware_Diy_Core() {
 	Author_URL=AUTO
 	Default_Flag=AUTO
 	Default_IP="192.168.1.1"
-	Default_Title="Powered by AutoBuild-Actions"
+	Default_Title="Powered by Ghost-ZiLie"
 
 	Short_Fw_Date=true
 	x86_Full_Images=false
